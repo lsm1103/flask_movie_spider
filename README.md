@@ -23,7 +23,7 @@ $ python3 manage.py runserver
 ## 教程地址
 啃饼网：
 ## 关于博主
-QQ：xiaomin-98@qq.com（啃饼小白）
+QQ：xiaomin-98@qq.com（校园微距离）
 
 微信公众号：**校园微距离** 
 
